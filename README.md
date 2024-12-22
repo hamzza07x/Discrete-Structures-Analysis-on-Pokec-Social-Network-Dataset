@@ -29,12 +29,13 @@ Through this project, theoretical concepts such as propositions, quantifiers, se
 ## Project Workflow
 1. **Import the Data**  
    Parse data from the `soc-pokec-relationships.txt` and `soc-pokec-profiles.txt` files using C++ or Python.  
-   Dataset can be accessed from: [Pokec Dataset](https://snap.stanford.edu/data/soc-Pokec.html)
+   Dataset can be accessed from: [Pokec Dataset](https://snap.stanford.edu/data/soc-Pokec.html).
+   Make sure to keep both files in the same directory as the `.py` file.
 
-2. **Store the Data**  
+3. **Store the Data**  
    Use appropriate data structures (e.g., structs, classes, arrays, trees, or graphs) to represent user profiles and relationships.
 
-3. **Analyze the Data**  
+4. **Analyze the Data**  
    Implement discrete mathematics concepts to answer specific questions and generate insights.
 
 ## Concepts Applied and Questions Addressed
